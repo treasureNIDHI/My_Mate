@@ -1,3 +1,3 @@
 # New_python_practice
- I am going code an assistant for me
+ I am going to code an assistant for me
 
